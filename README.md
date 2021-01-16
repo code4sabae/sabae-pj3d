@@ -6,6 +6,7 @@ https://www.city.sabae.fukui.jp/about_city/opendata/data_list/3d-shotengai.html
 CC BY 株式会社JM / 鯖江市役所  
 
 ## サンプルアプリ
+バーチャル鯖江  
 https://code4sabae.github.io/virtual-sabae/  
 
 ## データ
