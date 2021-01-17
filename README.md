@@ -16,3 +16,10 @@ https://code4sabae.github.io/sabae-pj3d/sabae-pj3d-central.gltf
 https://code4sabae.github.io/sabae-pj3d/sabae-pj3d-tsutsujihall.gltf  
 鯖江市誠照寺(43.9MB)  
 https://code4sabae.github.io/sabae-pj3d/sabae-pj3d-joshoji.gltf  
+
+## 変換方法
+Sketchupとobj2gltf を使用  
+https://github.com/CesiumGS/obj2gltf  
+
+Sketchupのエクスポート、obj、オプション（単位ヤード）  
+https://www.sketchup.com/ja  
